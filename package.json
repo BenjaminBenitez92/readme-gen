@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminBenitez92/readme-gen.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/BenjaminBenitez92/readme-gen/issues"
+  },
+  "homepage": "https://github.com/BenjaminBenitez92/readme-gen#readme"
 }
